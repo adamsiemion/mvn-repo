@@ -1,6 +1,0 @@
-1. repo-project
-Project that will be published in the github maven repository.
-
-2. dep-project
-Project depending on repo-project. 
-The dependency jar will be downloaded from the github maven repository.
