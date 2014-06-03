@@ -105,7 +105,7 @@
     <dependency>
       <groupId>org.springframework.data</groupId>
       <artifactId>spring-data-rest-repository</artifactId>
-      <version>1.0.0.RELEASE-DATEFORMAT</version>
+      <version>1.0.0.RELEASE</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
