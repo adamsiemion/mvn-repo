@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.springframework.data</groupId>
+  <artifactId>spring-data-rest-webmvc</artifactId>
+  <version>1.0.0.RELEASE-DATEFORMAT</version>
+  <versioning>
+    <versions>
+      <version>1.0.0.RELEASE-DATEFORMAT</version>
+    </versions>
+    <lastUpdated>20140603092739</lastUpdated>
+  </versioning>
+</metadata>
